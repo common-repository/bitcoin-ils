@@ -1,0 +1,7 @@
+#BILSexchangeRate{
+    direction: rtl;
+    text-align: right;
+}
+.BILS_inner span{
+    font-size: 13px;
+}
